@@ -12,14 +12,22 @@ Sınıf | Öğrenci İsmi  | Numara
 ## Özet:
 İYPT   2014 Yılının 9.sorusu olan  ‘’WATER  BOMBS’’ adlı  soruyu seçmemizdeki amaç içi su dolu bir plastik balonun  hangi koşullar altında  daha kolay patladığını gözlemlemektir. Çünkü bazı durumlarda içi suyla doldurulmuş balonlar aldıkları darbeye rağmen deformasyon göstermez ve patlamazlar.Bunu en iyi çocukların yaz aylarında bahçelerde oynadıkları su balonu savaşı oyunu sırasında görürüz.Bazı çocukların arkadaşlarına attıkları su dolu balonlar karşı tarafa isabet etmesine rağmen patlamaz ve hedefi ıslatamadan geri tepmeyle sıçrar ama sağlam kalırlar.
                 Biz bu durumu deneyimleyerek hangi şartlar su balonunun patlamasına yol açıyor veya patlamayı kolaylaştırıp zorlaştırıyor araştırıp öğrenmek istedik.
-                  Bu proje için : .Plastik balonun çarpma anındaki esneme oranını neyin etkilediğini
-                                           . Çarpma yüzeyinin durumunun patlamaya etkisini
-                                            .  Balonun yüzeye çarptığı andaki oluşan kuvvetin nelere bağlı olduğunu
-                                            . Çarpma anında oluşan bu kuvvetin nasıl bir basınç oluşturduğunu
-                                            . Ortaya çıkan basınçla balonun esnekliğinin   etkileşimini
-                                            . Balonun atılma mesafesinin farklılaşması durumunda çarpma anında          
+                  Bu proje için : 
+                  .Plastik balonun çarpma anındaki esneme oranını neyin etkilediğini
+                  
+                  . Çarpma yüzeyinin durumunun patlamaya etkisini
+                  
+                  
+                  .  Balonun yüzeye çarptığı andaki oluşan kuvvetin nelere bağlı olduğunu
+                  
+                  . Çarpma anında oluşan bu kuvvetin nasıl bir basınç oluşturduğunu
+                  
+                  . Ortaya çıkan basınçla balonun esnekliğinin   etkileşimini
+                  
+                  . Balonun atılma mesafesinin farklılaşması durumunda çarpma anında          
                                               balonu  etkileyen kuvvetin değişimini
-                                            .  Balonun atış hızının patlama durumuna etkisini   gözlemleyeceğiz.
+                  .  Balonun atış hızının patlama durumuna etkisini   gözlemleyeceğiz.
+            
             Bu gözlemlemeyi yapabilmemiz için farklı esnekliğe sahip plastik balonlara, çarpma yüzeyinin etkisini ölçmek için farklı sertlikte materyallere, atılan nokta ile çarpma yeri mesafesini ölçmek için uzunluk ölçere , balonu doldurabilmek  için suya  ve bu deneyleri kaydedip sonuçlarını inceleyebilmek için bir kameraya ihtiyacımız olacak.
           Yaptığımız deneyler sonucunda elde ettiğimiz bilgilerle su dolu balonun nereye ,ne şekilde,hangi mesafeden ,hangi hızla atılıp çarptırılırsa patlatılabileceği bilgisine ulaşmış olacağız.
 
