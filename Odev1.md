@@ -4,18 +4,30 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+9-D   | Ömer Saltuk Sukas | 569
+9-D   | Yaren Betül Çiğdem | 567
+9-D   |Sıla Şimşek|616
 
-#  (buraya proje başlığını yazınız)
-## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+#  (Water Bombs)
+## Özet:
+İYPT   2014 Yılının 9.sorusu olan  ‘’WATER  BOMBS’’ adlı  soruyu seçmemizdeki amaç içi su dolu bir plastik balonun  hangi koşullar altında  daha kolay patladığını gözlemlemektir. Çünkü bazı durumlarda içi suyla doldurulmuş balonlar aldıkları darbeye rağmen deformasyon göstermez ve patlamazlar.Bunu en iyi çocukların yaz aylarında bahçelerde oynadıkları su balonu savaşı oyunu sırasında görürüz.Bazı çocukların arkadaşlarına attıkları su dolu balonlar karşı tarafa isabet etmesine rağmen patlamaz ve hedefi ıslatamadan geri tepmeyle sıçrar ama sağlam kalırlar.
+                Biz bu durumu deneyimleyerek hangi şartlar su balonunun patlamasına yol açıyor veya patlamayı kolaylaştırıp zorlaştırıyor araştırıp öğrenmek istedik.
+                  Bu proje için : .Plastik balonun çarpma anındaki esneme oranını neyin etkilediğini
+                                           . Çarpma yüzeyinin durumunun patlamaya etkisini
+                                            .  Balonun yüzeye çarptığı andaki oluşan kuvvetin nelere bağlı olduğunu
+                                            . Çarpma anında oluşan bu kuvvetin nasıl bir basınç oluşturduğunu
+                                            . Ortaya çıkan basınçla balonun esnekliğinin   etkileşimini
+                                            . Balonun atılma mesafesinin farklılaşması durumunda çarpma anında          
+                                              balonu  etkileyen kuvvetin değişimini
+                                            .  Balonun atış hızının patlama durumuna etkisini   gözlemleyeceğiz.
+            Bu gözlemlemeyi yapabilmemiz için farklı esnekliğe sahip plastik balonlara, çarpma yüzeyinin etkisini ölçmek için farklı sertlikte materyallere, atılan nokta ile çarpma yeri mesafesini ölçmek için uzunluk ölçere , balonu doldurabilmek  için suya  ve bu deneyleri kaydedip sonuçlarını inceleyebilmek için bir kameraya ihtiyacımız olacak.
+          Yaptığımız deneyler sonucunda elde ettiğimiz bilgilerle su dolu balonun nereye ,ne şekilde,hangi mesafeden ,hangi hızla atılıp çarptırılırsa patlatılabileceği bilgisine ulaşmış olacağız.
+
+
+ 
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+1. Water Bombs (Mário Lipovský, Boris Vavrík, Slovakia, IYPT slides, 2014)
+2.Water Bombs (Vitalii Matunin, Alexandr Severinov, Russia, IYPT slides)
+3.Water Bombs(Paweł Czyż, Łukasz Popek, Radost Waszkiewicz, Tymoteusz Miara, Anna Wald, Jan Marucha. Bomby wodne , TMF Warszawa, 2014)
 
