@@ -14,16 +14,10 @@ Sınıf | Öğrenci İsmi  | Numara
                 Biz bu durumu deneyimleyerek hangi şartlar su balonunun patlamasına yol açıyor veya patlamayı kolaylaştırıp zorlaştırıyor araştırıp öğrenmek istedik.
                   Bu proje için : 
                   .Plastik balonun çarpma anındaki esneme oranını neyin etkilediğini
-                  
                   . Çarpma yüzeyinin durumunun patlamaya etkisini
-                  
-                  
                   .  Balonun yüzeye çarptığı andaki oluşan kuvvetin nelere bağlı olduğunu
-                  
                   . Çarpma anında oluşan bu kuvvetin nasıl bir basınç oluşturduğunu
-                  
                   . Ortaya çıkan basınçla balonun esnekliğinin   etkileşimini
-                  
                   . Balonun atılma mesafesinin farklılaşması durumunda çarpma anında          
                                               balonu  etkileyen kuvvetin değişimini
                   .  Balonun atış hızının patlama durumuna etkisini   gözlemleyeceğiz.
